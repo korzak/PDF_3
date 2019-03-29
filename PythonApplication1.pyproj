@@ -34,6 +34,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="fw9.pdf" />
+    <Content Include="hindimanual.pdf" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />

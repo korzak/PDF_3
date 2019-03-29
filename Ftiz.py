@@ -12,7 +12,7 @@ import fitz
 #            pix1 = None
 #        pix = None
 
-doc = fitz.open('fw9.pdf')
+doc = fitz.open('hindimanual.pdf')
 for i in range(len(doc)):
     for img in doc.getPageImageList(i):
         xref = img[0]
