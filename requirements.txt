@@ -1,0 +1,5 @@
+pdfminer==20140328
+pip==19.0.3
+PyMuPDF==1.14.12
+setuptools==15.0
+slate==0.5.2
