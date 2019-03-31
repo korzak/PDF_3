@@ -27,6 +27,7 @@
     <Compile Include="Img_3.py" />
     <Compile Include="json_exporter.py" />
     <Compile Include="miner_text_generator.py" />
+    <Compile Include="PDF_Test\FileRepeat.py" />
     <Compile Include="PythonApplication1.py" />
     <Compile Include="xml_exporter.py" />
   </ItemGroup>
@@ -37,6 +38,9 @@
     <Content Include="fw9.pdf" />
     <Content Include="hindimanual.pdf" />
     <Content Include="requirements.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PDF_Test\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
